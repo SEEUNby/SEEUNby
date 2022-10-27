@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![headr](http://capsule-render.vercel.app/api?type=wave$color=auto&height=500dp&section=header&text="SEEUNby"&fontSize=15sp)
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
