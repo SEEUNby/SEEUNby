@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=e7dcbc&height=70&section=header&text=KimSeEun&fontSize=20&fontColor=523220)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=ade2f1&height=70&section=header&text=KimSeEun&fontSize=20&fontColor=77abb9)
 
-### 🍞 Working Experience
+### ☁️ Working Experience
 - [TeamO2](https://teamo2.kr/) | Frontend Development Internship ( 2022.06 - 2022.08 )
 - [Partridge Systems](https://partridgesystems.com/kr) | Frontend Development Internship ( 2022.12 - 2023.03 )
 - [MIRIDIH](https://www.miridih.com/service) | Frontend Development Internship ( 2024.03 - 2024.06 )
