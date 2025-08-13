@@ -1,21 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=ade2f1&height=70&section=header&text=Kim Se Eun&fontSize=20&fontColor=324a51)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=ade2f1&height=70&section=header&text=KimSeEun&fontSize=20&fontColor=324a51)
 
 ### ☁️ Working Experience
-- [TeamO2](https://teamo2.kr/) | Frontend Development Internship ( 2022.06 - 2022.08 )
-- [Partridge Systems](https://partridgesystems.com/kr) | Frontend Development Internship ( 2022.12 - 2023.03 )
-- [MIRIDIH](https://www.miridih.com/service) | Frontend Development Internship ( 2024.03 - 2024.06 )
 
 <br/> 
 
 ### ☁️ Activities
-- [Nexters](https://teamnexters.com/) 2th (  )
 - [TAVE](https://tavewave.github.io/) 9th ( 2021.03 - )
 
 <br/> 
 
 ### ☁️ Education
-- SungShin Women's University ( 2021.03 - )
-- [boostcamp web・mobile](https://boostcamp.connect.or.kr/program_wm.html) 8th ( 2023.07 - 2023.12 )
+-  SungShin Women's University ( 2021.03 - )
 
 <br/> 
 
