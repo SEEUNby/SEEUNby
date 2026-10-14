@@ -1,9 +1,7 @@
-# Seeun Kim
+# Kim Seeun
 
 Hello, I'm Seeun!  
 I'm interested in **Computer Vision**, **Autonomous Driving**, and **Robust 3D Perception**.
-
-I'm currently researching **camera-only 3D object detection**, with a focus on reliable perception under **low-light conditions**.
 
 <p align="left">
   <a href="https://github.com/SEEUNby">
@@ -28,10 +26,6 @@ I'm currently researching **camera-only 3D object detection**, with a focus on r
 - **TAVE** — 12th & 13th cohorts; leadership activities
 - **Alphaco** — AI Mentor
 
-### Research Interests
-
-- 3D Object Detection · Multi-view Computer Vision · Autonomous Driving
-- Robust Perception · Low-light Conditions · Efficient Deep Learning
 
 ### Tech Stack
 
